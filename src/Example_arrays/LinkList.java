@@ -9,11 +9,11 @@ public class LinkList {
     public static void main(String[] args){
 
         LinkedList <String> placesToVisit= new LinkedList<>();
-        addInOrder(placesToVisit,"sydney");
-        addInOrder(placesToVisit,"bolivia");
-        addInOrder(placesToVisit,"sucre");
-        addInOrder(placesToVisit,"cbba");
-        addInOrder(placesToVisit,"oruro");
+        addInOrder(placesToVisit,"Austria");
+        addInOrder(placesToVisit,"USA");
+        addInOrder(placesToVisit,"Mexico");
+        addInOrder(placesToVisit,"Canada");
+        addInOrder(placesToVisit,"China");
 //        placesToVisit.add("hawai");
 //        placesToVisit.add("bolivia");
 //        placesToVisit.add("sucre");
